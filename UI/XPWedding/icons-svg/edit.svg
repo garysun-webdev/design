@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="45px" height="49px" viewBox="0 0 45 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>new-report</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="new-report" sketch:type="MSLayerGroup" transform="translate(0.000000, 0.891142)" fill="#FFFFFF">
+            <g id="Welcome" sketch:type="MSShapeGroup">
+                <path d="M35.4666661,45.8526316 L35.4666661,18.7578947 L37.3333327,16.6736842 L37.3333327,47.9368421 L0,47.9368421 L0,8.33684211 L29.8666662,8.33684211 L27.9999995,10.4210526 L1.86666663,10.4210526 L1.86666663,45.8526316 L35.4666661,45.8526316 L35.4666661,45.8526316 Z M20.2999997,28.6578947 L40.2499993,6.38289474 L41.5333326,7.81578947 L20.533333,31.2631579 L16.7999997,31.2631579 L16.7999997,27.0947368 L37.7999994,3.64736842 L39.0833327,5.08026316 L19.133333,27.3552632 L20.2999997,28.6578947 L20.2999997,28.6578947 Z M44.3333326,2.08421053 C44.6444452,2.60526576 44.7999992,3.03947193 44.7999992,3.38684211 C44.7999992,3.73421225 44.6444452,4.16841844 44.3333326,4.68947368 L42.9333326,6.25263158 L40.4833326,3.51710526 L39.1999993,2.08421053 L40.5999993,0.521052632 C41.0666682,0.173682474 41.4555534,0 41.766666,0 C42.0777786,0 42.4666637,0.173682474 42.9333326,0.521052632 L44.3333326,2.08421053 L44.3333326,2.08421053 Z" id="ios-compose-outline---Ionicons"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="56px" height="49px" viewBox="0 0 56 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>add20</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="add20" sketch:type="MSLayerGroup" transform="translate(0.179075, 0.108858)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSShapeGroup">
+                <path d="M4.71631579,4.806 L41.5774737,4.806 L41.5774737,20.2673684 L46.2934737,20.2673684 L46.2934737,0.0896842105 L0,0.0896842105 L0,40.4447368 L23.1467368,40.4447368 L23.1467368,35.7287368 L4.71631579,35.7287368 L4.71631579,4.806 Z" id="Shape"></path>
+                <path d="M55.0228421,34.5404211 L46.2934737,34.5404211 L46.2934737,25.8110526 L41.5774737,25.8110526 L41.5774737,34.5404211 L32.8481053,34.5404211 L32.8481053,39.2567368 L41.5774737,39.2567368 L41.5774737,47.9861053 L46.2934737,47.9861053 L46.2934737,39.2567368 L55.0228421,39.2567368 L55.0228421,34.5404211 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="11.2670526" y="11.9693684" width="20.064" height="4.71631579"></rect>
+                <rect id="Rectangle-path" x="11.2670526" y="21.4724211" width="15.3110526" height="4.71631579"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

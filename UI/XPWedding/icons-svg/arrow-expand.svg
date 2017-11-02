@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-expand - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FIVE-UI---Travel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="08.03-Favorites" sketch:type="MSArtboardGroup" transform="translate(-333.000000, -664.000000)" fill="#000000">
+            <path d="M341.34375,669.84375 L344.34375,666.84375 L342,664.5 L348,664.5 L348,670.5 L345.65625,668.15625 L342.65625,671.15625 L341.34375,669.84375 Z M341.34375,674.15625 L342.65625,672.84375 L345.65625,675.84375 L348,673.5 L348,679.5 L342,679.5 L344.34375,677.15625 L341.34375,674.15625 Z M339.65625,674.15625 L336.65625,677.15625 L339,679.5 L333,679.5 L333,673.5 L335.34375,675.84375 L338.34375,672.84375 L339.65625,674.15625 Z M339.65625,669.84375 L338.34375,671.15625 L335.34375,668.15625 L333,670.5 L333,664.5 L339,664.5 L336.65625,666.84375 L339.65625,669.84375 Z" id="arrow-expand---Ionicons" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

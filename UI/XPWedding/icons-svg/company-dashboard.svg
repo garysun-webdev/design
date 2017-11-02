@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>pie-graph - Ionicons</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD-Copy-5" sketch:type="MSArtboardGroup" transform="translate(-20.000000, -245.000000)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(20.000000, 210.000000)">
+                <path d="M0.046875,45.5 C0.046875,45.4374997 0.0390625781,45.3125009 0.0234375,45.125 C0.00781242188,44.9374991 0,44.8125003 0,44.75 C0,42.0624866 0.953115469,39.7656345 2.859375,37.859375 C4.76563453,35.9531155 7.06248656,35 9.75,35 C9.81250031,35 9.93749906,35.0078124 10.125,35.0234375 C10.3125009,35.0390626 10.4374997,35.046875 10.5,35.046875 L10.5,36.546875 L10.5,45.5 L1.546875,45.5 L0.046875,45.5 Z M3.65625,52.34375 C2.37499359,50.7812422 1.67187562,49.00001 1.546875,47 L12,47 L12,36.546875 C14.00001,36.6718756 15.7812422,37.3749936 17.34375,38.65625 C19.7812622,40.6250098 21,43.1562345 21,46.25 C21,48.9375134 20.0468845,51.2343655 18.140625,53.140625 C16.2343655,55.0468845 13.9375134,56 11.25,56 C8.15623453,56 5.62500984,54.7812622 3.65625,52.34375 L3.65625,52.34375 Z" id="pie-graph---Ionicons" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

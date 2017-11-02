@@ -1,0 +1,137 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CaslonFiveForty-Italic
+FamilyName:Caslon 540
+StyleName:Italic
+MenuName:Caslon 540
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Caslon 540 Italic
+WritingScript:Roman
+OutlineFileName:\CasloFivForIta
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:39532
+FileModTime:901676911
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CaslonFiveForty-Roman
+FamilyName:Caslon 540
+StyleName:Roman
+MenuName:Caslon 540
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Caslon 540 Roman
+WritingScript:Roman
+OutlineFileName:\CasloFivForRom
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37962
+FileModTime:901676912
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CaslonFiveForty-Roman
+OutlineFileName:\CaslonFiveForty
+ResourceID:14799
+MacStyle:0
+FileLength:30391
+FileModTime:1259096836
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CaslonFiveForty-Italic
+OutlineFileName:\CaslonFiveForty
+ResourceID:14799
+MacStyle:2
+FileLength:30391
+FileModTime:1259096836
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CaslonFiveForty-Italic
+OutlineFileName:\CaslonFiveForty
+ResourceID:14798
+MacStyle:0
+FileLength:30391
+FileModTime:1259096836
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CaslonFiveForty-RomanSC
+OutlineFileName:\CaslonFiveForty
+ResourceID:13432
+MacStyle:0
+FileLength:30391
+FileModTime:1259096836
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CaslonFiveForty-ItalicOsF
+OutlineFileName:\CaslonFiveForty
+ResourceID:13432
+MacStyle:2
+FileLength:30391
+FileModTime:1259096836
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CaslonFiveForty-ItalicOsF
+OutlineFileName:\CaslonFiveForty
+ResourceID:13433
+MacStyle:0
+FileLength:30391
+FileModTime:1259096836
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1407638936
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
