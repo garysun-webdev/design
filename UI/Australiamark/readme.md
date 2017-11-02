@@ -1,4 +1,3 @@
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/website.png">
 # AustraliaMark E-commercial Website
 
 ☃️🔥🏠 E-commercial Website based on WordPress and WooCommerce.
