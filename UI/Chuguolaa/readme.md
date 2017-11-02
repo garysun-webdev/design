@@ -1,6 +1,6 @@
 # Official Website for Chuguolaa
 
-🇨🇳👨‍🎓👩‍🎓🇦🇺 FullStack Website based on Angular,JEE and MySQL.
+🇨🇳👨‍🎓👩‍🎓🇦🇺 Designed by Sketch.
 
 * [Website](http://chuguolaa.com/)
 
