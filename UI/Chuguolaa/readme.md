@@ -1,24 +1,21 @@
-# Activity Measurement and Analysis System for Lung Patients
+# Official Website for Chuguolaa
 
-🚶📊👩‍⚕️ FullStack Application based on Node,Express,MongoDB
+🇨🇳👨‍🎓👩‍🎓🇦🇺 Sketch is used in UI Design.
 
-* [Website](https://webdevzero2hero-eaglegogogo.c9users.io/)
-* [Source](https://github.com/garysun-webdev/ActivityRefactor)
+* [Website](http://chuguolaa.com/)
 
 ## UI Design
 
-* Patient List Page:
+* Student Page:
 <br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientList.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/alading-page.jpg">
 
-* Patient Detail Page:
+* Signup Steps:
 <br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientDetail.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/Register-1.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/Register-2.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/Register-3.png">
 
-* Patient Create Page:
+* Logo Design:
 <br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientCreate.png">
-
-* Doctor Registration Page:
-<br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/Register.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/logo-chuguolaa.jpg">

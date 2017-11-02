@@ -1,24 +1,11 @@
-# Activity Measurement and Analysis System for Lung Patients
+# Official Website for CAAHome
 
-🚶📊👩‍⚕️ FullStack Application based on Node,Express,MongoDB
+🏠🏗🇨🇳 Single Page Website based on HTML, CSS and JavaScript
 
-* [Website](https://webdevzero2hero-eaglegogogo.c9users.io/)
-* [Source](https://github.com/garysun-webdev/ActivityRefactor)
+* [Website](http://australiastartup.net/caahome/)
+* [Source](https://github.com/garysun-webdev/caahome)
 
 ## UI Design
 
-* Patient List Page:
-<br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientList.png">
-
-* Patient Detail Page:
-<br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientDetail.png">
-
-* Patient Create Page:
-<br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientCreate.png">
-
-* Doctor Registration Page:
-<br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/Register.png">
+* Adobe InDesign
+* Font Selection

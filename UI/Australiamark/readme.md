@@ -1,24 +1,21 @@
-# Activity Measurement and Analysis System for Lung Patients
+# AustraliaMark E-commercial Website
 
-🚶📊👩‍⚕️ FullStack Application based on Node,Express,MongoDB
+☃️🔥🏠 E-commercial Website based on WordPress and WooCommerce.
 
-* [Website](https://webdevzero2hero-eaglegogogo.c9users.io/)
-* [Source](https://github.com/garysun-webdev/ActivityRefactor)
+* [Website](https://australiamark.com.au/)
+* [Source](https://github.com/garysun-webdev/australiamark)
 
 ## UI Design
 
-* Patient List Page:
+* Front Page:
 <br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientList.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/front-page.png">
 
-* Patient Detail Page:
+* Brand Logo:
 <br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientDetail.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/flame.jpg">
 
-* Patient Create Page:
+* Website Logo:
 <br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/PatientCreate.png">
+<img src="https://australiamark.com.au/wp-content/uploads/2017/11/website.png">
 
-* Doctor Registration Page:
-<br>
-<img src="https://australiamark.com.au/wp-content/uploads/2017/11/Register.png">
