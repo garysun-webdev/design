@@ -11,6 +11,6 @@ Design and Coding are my passion, and I am incredibly lucky to be able to love w
 
 * 🏠🏗🇨🇳[Official Website for CAAHome](https://github.com/garysun-webdev/design/tree/master/UI/CAAHome)
 
-* 🇨🇳👨‍🎓👩‍🎓🇦🇺[Official Website for Chuguolaa](https://github.com/garysun-webdev/design/tree/master/UI/Chuguolaa)
+* 🇨🇳👩‍🎓🇦🇺[Official Website for Chuguolaa](https://github.com/garysun-webdev/design/tree/master/UI/Chuguolaa)
 
 * 👩‍❤️‍💋‍👨👰🤵[Official Website for XPWedding](https://github.com/garysun-webdev/design/tree/master/UI/XPWedding)
