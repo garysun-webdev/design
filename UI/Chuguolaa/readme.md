@@ -1,6 +1,6 @@
 # Official Website for Chuguolaa
 
-🇨🇳👨‍🎓👩‍🎓🇦🇺 Designed by Sketch.
+🇨🇳👨‍🎓👩‍🎓🇦🇺 Sketch is used in UI Design.
 
 * [Website](http://chuguolaa.com/)
 
